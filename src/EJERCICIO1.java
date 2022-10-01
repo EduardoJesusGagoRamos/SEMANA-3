@@ -1,4 +1,5 @@
-
+// Leer la altura de N personas y calcular la altura media
+// Mostrar cuntas personas hay superiores a la media
 import java.util.Scanner;
 
 /*

@@ -1,4 +1,4 @@
-
+// MATRIZ DE 10X1O INGRESADO POR TECLADO SUME LA DIAGONAL SECUNDARIA
 import java.util.Arrays;
 import java.util.Scanner;
 

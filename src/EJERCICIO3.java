@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
+// Crear y cargar una tabla de tamaño 3x3, mostrar la suma de cada fila y de cada columna
 import java.util.Scanner;
 
 /**
