@@ -2,14 +2,9 @@
 // Mostrar cuntas personas hay superiores a la media
 import java.util.Scanner;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
 /**
  *
- * @author LENOVO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO1 {
 

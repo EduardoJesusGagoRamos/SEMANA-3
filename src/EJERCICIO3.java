@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author LENOVO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO3 {
 

@@ -1,14 +1,9 @@
 // Crear un array bidimensional de tamaño 7x7 y rellénalo de forma que los elementos de la diagonal principal sean 1 y el resto 0. Muestra el array por pantalla en forma cuadrado
 import java.util.Arrays;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
 /**
  *
- * @author LENOVO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO4 {
 
